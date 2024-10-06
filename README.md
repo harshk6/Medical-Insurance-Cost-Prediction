@@ -81,7 +81,7 @@ Each model's performance is evaluated using metrics such as **R2 Score**.
 
 ## Results
 
-The final model chosen for predicting medical insurance costs is **Random Forest Regressor**. 
+The final model chosen for predicting medical insurance costs is **Gradient Boosting Regressor**. 
 
 ### Performance Metric
 
