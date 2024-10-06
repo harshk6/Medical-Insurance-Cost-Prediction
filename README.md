@@ -24,9 +24,9 @@ Key steps include:
 ## Project Structure
 ```plaintext
 Medical-Insurance-Cost-Prediction/
-├── insurance.csv                                  # Contains dataset files
-├── Medical Insurance Cost Prediction.ipynb
-├── README.md                              # Project documentation
+├── insurance.csv                               # Contains dataset files
+├── Medical Insurance Cost Prediction.ipynb     # Include Code
+├── README.md                                   # Project documentation
 ```
 
 ## Installation
