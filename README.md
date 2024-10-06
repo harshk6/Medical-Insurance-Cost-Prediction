@@ -10,8 +10,6 @@ This project focuses on predicting the medical insurance costs of individuals ba
 - [Usage](#usage)
 - [Models Used](#models-used)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -29,21 +27,15 @@ Medical-Insurance-Cost-Prediction/
 ├── insurance.csv                                  # Contains dataset files
 ├── Medical Insurance Cost Prediction.ipynb
 ├── README.md                              # Project documentation
-├── requirements.txt                       # Required Python libraries
-└── LICENSE                                # License file
 ```
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Medical-Insurance-Cost-Prediction.git
+   git clone https://github.com/harshk6/Medical-Insurance-Cost-Prediction.git
    cd Medical-Insurance-Cost-Prediction
-   ```
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
    ```
 ## Usage
 
