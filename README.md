@@ -24,4 +24,50 @@ Key steps include:
 - Evaluating Model Performance
 
 ## Project Structure
+```plaintext
+Medical-Insurance-Cost-Prediction/
+├── data/                                  # Contains dataset files
+├── notebooks/                             # Jupyter notebooks for analysis and modeling
+│   └── Medical Insurance Cost Prediction.ipynb
+├── README.md                              # Project documentation
+├── requirements.txt                       # Required Python libraries
+└── LICENSE                                # License file
+```
 
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/Medical-Insurance-Cost-Prediction.git
+   cd Medical-Insurance-Cost-Prediction
+   ```
+2. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+## Usage
+
+To run the analysis and model training, follow these steps:
+
+1. Open a terminal and navigate to the project directory:
+
+   ```bash
+   cd Medical-Insurance-Cost-Prediction
+   ```
+2. Start Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+3. Open the notebook located in the notebooks folder:
+   ```bash
+   Medical Insurance Cost Prediction.ipynb
+   ```
+4. Follow the steps in the notebook to preprocess the data, train the model, and evaluate the results.
+
+The notebook contains code for:
+
+Data Preprocessing
+Exploratory Data Analysis (EDA)
+Building and training machine learning models
+Evaluating model performance
